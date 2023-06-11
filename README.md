@@ -1,4 +1,4 @@
-# Práctica ESP32 con DHT11 y Lcd de Diego Llampallas
+# Práctica ESP32 con DHT11 y pantalla LCD de Diego Llampallas
 
 A continuación se mostrará acontinuación la programación de la práctica ESP32 con DHT11 y con lcd de 16x2:
 
@@ -17,6 +17,8 @@ Para realizar esta practica se usaran los siguientes elementos:
 - Tarjeta ESP 32
 - Sensor DHT11
 - Pantalla LCD 16X2
+- Fuente de voltaje de 5v
+- Tierra
 
 
 
